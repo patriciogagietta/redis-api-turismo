@@ -4,12 +4,12 @@
 
 #### 1. Clonar el repositorio
 ```ts
-https://github.com/patriciogagietta/redis-capitulos-mandalorian.git
+git clone https://github.com/patriciogagietta/redis-api-turismo.git
 ```
 
 #### 2. Ir a la ruta del proyecto
 ```ts
-cd redis-capitulos-mandalorian
+cd redis-api-turismo
 ```
 
 #### 3. Ir a la ruta del backend, instalar las dependencias y correr el servidor
